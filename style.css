@@ -184,6 +184,14 @@ blockquote p {
         width: 100%;
         text-align: center;
     }
+    
+    section img {
+        width: 420px;
+        height: auto;
+        
+    }
+    
+    
 }
 
 /*для экранов до 480px*/
@@ -216,6 +224,11 @@ blockquote p {
         width: 100%;
         text-align: center;
     }
-
+    
+    section img {
+        width: 420px;
+        height: auto;
+        
+    }
 
 }
